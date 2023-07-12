@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @kirenbagga
-- 👀 I’m interested in BPM Tool.
-- 🌱 I’m currently learning PEGA Tool.
+- 👋 Hi, I’m @kirenbagga aka K.I.R.N.A
+- 👀 I’m interested in JAVA.
+- 🌱 I’m highly self trained programmer.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
