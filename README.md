@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kirenbagga aka K.I.R.N.A
-- 👀 I’m interested in JAVA.
+- 👀 I’m interested in MERN.
 - 🌱 I’m highly self trained programmer.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
