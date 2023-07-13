@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @kirenbagga aka K.I.R.N.A
 - 👀 I’m interested in MERN.
-- 🌱 I’m highly self trained programmer.
+- 😎 Expert on DevOps with AWS
+- 🌱 I’m highly self trained ace programmer.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
