@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kirenbagga aka K.I.R.N.A
-- 👀 I’m interested in MERN.
-- 😎 Expert on DevOps with AWS
+- 👀 I’m interested in JAVA.
+- 😎 Expert on Problem Solving
 - 🌱 I’m highly self trained ace programmer.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
